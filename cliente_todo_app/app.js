@@ -7,7 +7,7 @@
 // ANTES (Local):
 // const API_URL = "http://localhost:8000/equipos";
 
-const API_URL = "https://api-adso-grupo-omar-mayorga.onrender.com";
+const API_URL = "https://api-adso-grupo-omar-mayorga.onrender.com/tareas";
 
 // Elementos del DOM
 const formTarea = document.getElementById("form-tarea");
